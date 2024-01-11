@@ -1,0 +1,12 @@
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.AssemblyReference.cache
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.SuggestedBindingRedirects.cache
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.exe
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.MyForm.resources
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.GenerateResource.cache
+D:\_Rare\MyProjects\C C++\ChessAlgo\x64\Debug\ChessAlgo.InputBox.resources
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.AssemblyReference.cache
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.InputBox.resources
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.MyForm.resources
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.vcxproj.GenerateResource.cache
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.exe

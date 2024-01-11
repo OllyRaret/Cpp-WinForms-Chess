@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\MyForm.cpp(175,64): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\MyForm.cpp(195,55): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\MyForm.cpp(229,55): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ChessAlgo.vcxproj -> C:\Users\79875\Загрузки\ChessAlgo\ChessAlgo\x64\Debug\ChessAlgo.exe
